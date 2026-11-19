@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **VictoriyaMC - RastaBot and more..**  
-🌱 &nbsp;I'm currently learning **ML - Pandas(Python)  - Java**
+🔭 &nbsp;I'm currently working on **Rasta Studio,Rasta Bot and More..**  
+🌱 &nbsp;I'm currently learning **ML - Pandas(Python)  - Docker**
 
 ### 🛠️ Tech Stack
 
